@@ -8,6 +8,7 @@ int main ()
 	{
 		printf("El numero es: %d\n",i);
 	}
+	printf("Esto es un cambio al archivo\n");
 	return 0;
 }
 
